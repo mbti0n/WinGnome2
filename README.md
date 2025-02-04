@@ -15,7 +15,7 @@
 - [MiniBin](https://www.majorgeeks.com/files/details/minibin.html) for the trash icon on the right side of the taskbar.
 - [StartAllBack](https://www.startallback.com/) for classic Start Menu and Windows 7-style File Explorer.
   - Use [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu) for the free classic Start Menu alternative.
-  - Use OldNewExplorer for the free Windows 7-style File Explorer.
+  - Use [OldNewExplorer](https://www.majorgeeks.com/files/details/oldnewexplorer.html) for the free Windows 7-style File Explorer.
 - Show desktop button. Follow [this guide](https://winaero.com/add-show-desktop-shortcut-to-taskbar-in-windows-11/) to pin the Show desktop button to the taskbar.
 
 ### [Windhawk](https://github.com/ramensoftware/windhawk) mods
@@ -26,3 +26,8 @@
   - ¹ Customize Windows notifications placement | [Download mod](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/notificationPlacement_mod.txt)
   - ¹ Taskbar height and icon size | [Download mod](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/taskbarHeight-Icon_mod.txt)
   - Disable rounded corners in Windows 11
+
+### Windows settings
+- **Show time and date in the System tray** > Off
+- **Combines button and hide labels** > Never
+- **Other system tray icons > Hidden icon menu** > Off
