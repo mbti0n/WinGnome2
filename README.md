@@ -31,3 +31,6 @@
 - **Show time and date in the System tray** > Off
 - **Combines button and hide labels** > Never
 - **Other system tray icons > Hidden icon menu** > Off
+
+# To-do
+◻️ Light mode interface for droptop four
