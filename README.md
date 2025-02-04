@@ -11,8 +11,8 @@
 [droptop four](https://www.droptopfour.com/) ([Rainmeter](https://www.rainmeter.net/) required)
 
 **Community Apps** (the repo code to download)
-  - Shortcut
-  - Quick Settings
+  - Shortcut by Phan | [Download](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/droptop-four-Community-Apps/Shortcut%20-%20Phan%20(Droptop%20App).rmskin)
+  - Quick Settings by Cariboudjan | [Download](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/droptop-four-Community-Apps/Quick%20Settings%20-%20Cariboudjan%20(Droptop%20App).rmskin)
  ### Taskbar
 - [MiniBin](https://www.majorgeeks.com/files/details/minibin.html) for the trash icon on the right side of the taskbar.
 - [StartAllBack](https://www.startallback.com/) for classic Start Menu and Windows 7-style File Explorer.
