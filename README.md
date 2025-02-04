@@ -5,6 +5,7 @@
 ### Dark mode
 ![image](https://github.com/user-attachments/assets/602dba0f-dcb2-4d60-89cf-81dc4750120b)
 ![image](https://github.com/user-attachments/assets/99a486fc-422f-485b-8118-cbe7ecc9406e)
+Wallpaper: [Milad Fakurian on Unsplash](https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-blurry-background-F0LtAt5JTmE)
 
 ## List of apps and tools used
 ### Top bar
