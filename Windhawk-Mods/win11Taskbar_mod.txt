@@ -1,0 +1,15 @@
+{
+  "theme": "",
+  "resourceVariables[0].variableKey": "",
+  "resourceVariables[0].value": "",
+  "controlStyles[0].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton]",
+  "controlStyles[0].styles[0]": "Visibility=Collapsed",
+  "controlStyles[1].target": "TextBlock#LabelControl",
+  "controlStyles[1].styles[0]": "FontFamily=Segoe UI",
+  "controlStyles[2].target": "Rectangle#RunningIndicator",
+  "controlStyles[2].styles[0]": "Visibility=Collapsed",
+  "controlStyles[3].target": "Border#BackgroundBorder",
+  "controlStyles[3].styles[0]": "CornerRadius=0",
+  "controlStyles[4].target": "Taskbar.TaskListLabeledButtonPanel@CommonStates > Border#BackgroundElement",
+  "controlStyles[4].styles[0]": "CornerRadius=0"
+}
