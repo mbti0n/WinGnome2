@@ -22,9 +22,9 @@
 
 ### [Windhawk](https://github.com/ramensoftware/windhawk) mods
 *( * ) Includes a file for mod settings. Check the repo code for the mod.*
-  - Windows 11 Taskbar Styler  ( * )
-  - Windows 11 Notification Center Styler  ( * )
-  - Taskbar tray system icon tweaks  ( * )
-  - Customize Windows notifications placement  ( * )
-  - Taskbar height and icon size  ( * )
+  - Windows 11 Taskbar Styler  [Download mod](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/win11Taskbar_mod.txt)
+  - Windows 11 Notification Center Styler  [Download mod](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/win11Notification_mod.txt)
+  - Taskbar tray system icon tweaks  [Download mod](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/taskbarTrayIcon_mod.txt)
+  - Customize Windows notifications placement  [Download mod](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/notificationPlacement_mod.txt)
+  - Taskbar height and icon size  [Download mod](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/taskbarHeight-Icon_mod.txt)
   - Disable rounded corners in Windows 11
