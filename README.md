@@ -1,5 +1,5 @@
 # WinGnome2
-**GNOME 2/MATE look and feel for Windows 11**
+## GNOME 2/MATE look and feel for Windows 11
 
 ![image](https://github.com/user-attachments/assets/602dba0f-dcb2-4d60-89cf-81dc4750120b)
 ![image](https://github.com/user-attachments/assets/99a486fc-422f-485b-8118-cbe7ecc9406e)
