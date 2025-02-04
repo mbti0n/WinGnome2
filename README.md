@@ -21,7 +21,7 @@
 - Show desktop button. Follow [this guide](https://winaero.com/add-show-desktop-shortcut-to-taskbar-in-windows-11/) to pin the Show desktop button to the taskbar.
 
 ### [Windhawk](https://github.com/ramensoftware/windhawk) mods
-*¹ Includes a file for mod settings.*
+*¹ Includes the file for mod settings.*
   - ¹ Windows 11 Taskbar Styler | [Download mod settings](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/win11Taskbar_mod.txt)
   - ¹ Windows 11 Notification Center Styler | [Download mod settings](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/win11Notification_mod.txt)
   - ¹ Taskbar tray system icon tweaks | [Download mod settings](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/taskbarTrayIcon_mod.txt)
