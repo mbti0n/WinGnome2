@@ -10,7 +10,6 @@ Wallpaper: [Milad Fakurian on Unsplash](https://unsplash.com/photos/a-close-up-o
 ### Light mode
 ![image](https://github.com/user-attachments/assets/d317375f-d1f8-4237-9ad3-4d54ed0a6d7b)
 ![image](https://github.com/user-attachments/assets/220c3103-ab70-4ec6-8cc9-c90e8b5d4409)
-
 Wallpaper: [Hassaan Here on Unsplash](https://unsplash.com/photos/a-close-up-of-a-red-and-brown-object-Gz_74MbJ4V8)
 
 
@@ -21,6 +20,16 @@ Wallpaper: [Hassaan Here on Unsplash](https://unsplash.com/photos/a-close-up-of-
 **Community Apps**
   - Shortcut by Phan | [Download](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/droptop-four-Community-Apps/Shortcut%20-%20Phan%20(Droptop%20App).rmskin)
   - Quick Settings by Cariboudjan | [Download](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/droptop-four-Community-Apps/Quick%20Settings%20-%20Cariboudjan%20(Droptop%20App).rmskin)
+
+**Color configuration (R, G, B, A)**
+- Light mode:
+  - Top bar + Dropdown background (237, 237, 237, 255)
+  - Top bar + Dropdown text and highlight text (0, 0, 0, 255)
+  - Top bar + Dropdown highlight: (80, 80, 80, 85)
+- Dark mode:
+  - Top bar + Dropdown background (28, 28, 28, 255)
+  - Top bar + Dropdown text and highlight text (255, 255, 255, 255)
+  - Top bar + Dropdown highlight: (163, 163, 163, 85)
  ### Taskbar
 - [MiniBin](https://www.majorgeeks.com/files/details/minibin.html) for the trash icon on the right side of the taskbar.
 - [StartAllBack](https://www.startallback.com/) for classic Start Menu and Windows 7-style File Explorer.
@@ -48,5 +57,3 @@ Wallpaper: [Hassaan Here on Unsplash](https://unsplash.com/photos/a-close-up-of-
 - **Taskbar behaviors > Combines taskbar button and hide labels** > Never
 - **Other system tray icons > Hidden icon menu** > Off
 - **Other system tray icons** > enable only MiniBin (goes under the message *The free recycle bin for your system tray area*)
-
-
