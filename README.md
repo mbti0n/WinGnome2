@@ -30,11 +30,11 @@ Wallpaper: [Hassaan Here on Unsplash](https://unsplash.com/photos/a-close-up-of-
 
 ### [Windhawk](https://github.com/ramensoftware/windhawk) mods
 *¹ Includes the file for mod settings.*
-  - ¹ Windows 11 Taskbar Styler | [Download mod settings](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/win11Taskbar_mod.txt)
-  - ¹ Windows 11 Notification Center Styler | [Download mod settings](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/win11Notification_mod.txt)
-  - ¹ Taskbar tray system icon tweaks | [Download mod settings](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/taskbarTrayIcon_mod.txt)
-  - ¹ Customize Windows notifications placement | [Download mod settings](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/notificationPlacement_mod.txt)
-  - ¹ Taskbar height and icon size | [Download mod settings](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/taskbarHeight-Icon_mod.txt)
+  - ¹ Windows 11 Taskbar Styler | [View mod settings](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/win11Taskbar_mod.txt)
+  - ¹ Windows 11 Notification Center Styler | [View mod settings](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/win11Notification_mod.txt)
+  - ¹ Taskbar tray system icon tweaks | [View mod settings](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/taskbarTrayIcon_mod.txt)
+  - ¹ Customize Windows notifications placement | [View mod settings](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/notificationPlacement_mod.txt)
+  - ¹ Taskbar height and icon size | [View mod settings](https://github.com/mbti0n/WinGnome2/raw/refs/heads/main/Windhawk-Mods/taskbarHeight-Icon_mod.txt)
   - Disable rounded corners in Windows 11
 
 ### Other
