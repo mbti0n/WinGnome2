@@ -41,10 +41,10 @@ Wallpaper: [Hassaan Here on Unsplash](https://unsplash.com/photos/a-close-up-of-
 - [Posy's Mouse Cursor](https://www.michieldb.nl/other/cursors/)
 
 ## Windows settings
-**Time & language > Date & time**
+### Time & language > Date & time
 - **Show time and date in the System tray** > Off
 
-**Personalization > Taskbar**
+### Personalization > Taskbar
 - **Taskbar behaviors > Combines taskbar button and hide labels** > Never
 - **Other system tray icons > Hidden icon menu** > Off
 - **Other system tray icons** > enable only MiniBin (goes under the message *The free recycle bin for your system tray area*)
