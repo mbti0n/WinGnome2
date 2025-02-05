@@ -1,5 +1,5 @@
 # WinGnome2
-## GNOME 2/MATE look and feel for Windows 11
+### GNOME 2/MATE look and feel for Windows 11
 **[Used Apps and Tools](#list-of-apps-and-tools-used) | [Windows Settings](#windows-settings)**
 
 ### Dark mode
